@@ -31,7 +31,7 @@ graduation-thesis/
 │   ├── 2-regulating-quality/ # Chapter 2: Regulation Quality
 │   ├── 3-peak-clearance/     # Chapter 3: Peak Clearance
 │   ├── 4-scheduling-framework/# Chapter 4: Scheduling Framework
-│   ├── Thesis.docx           # Main thesis document
+│   ├── Thesis.pdf            # Main thesis document
 │   └── Defense.pptx          # Defense presentation
 └── src/
     └── official-tamplates/   # University templates and guidelines
