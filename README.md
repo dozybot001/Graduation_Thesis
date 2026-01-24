@@ -176,4 +176,4 @@ For the complete English abstract, please see [Summary.md](Summary.md).
 
 **Note**: This repository is for academic purposes. Some data files and results may be omitted for privacy or size considerations.
 
-**Disclaimer**: This README.md file was generated with the assistance of AI. The content has been reviewed and verified by the author, but please refer to the actual thesis document and code for authoritative information.
+**Disclaimer**: All work of this Graduation Thesis was made by author without any AI Tools. This README.md file was generated with the assistance of AI. The content has been reviewed and verified by the author, but please refer to the actual thesis document and code for authoritative information.
